@@ -28,7 +28,7 @@ Ultimately, guide our community to adopt a more inclusive mindset in general tow
 Discourage discriminatory behavior during events that cause certain groups to feel unwelcome. 
 This initiative is in collaboration with VLDB DBCares team following the ACM Policy Against Harassment and ACM processes for Reporting Unacceptable Behavior.
 
-We welcome suggestions for events, formats, changes in procedures, outreach and other activities, that promote our goals in enhancing diversity, amplifying underrepresented voices, and creating a more inclusive community.
+We welcome suggestions for events, formats, changes in procedures, outreach and other activities, that promote our goals in enhancing diversity, amplifying underrepresented voices, and creating a more inclusive data management community.
 
 FEATURED RESOURCES
 
