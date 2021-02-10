@@ -30,7 +30,8 @@ This initiative is in collaboration with VLDB DBCares team following the ACM Pol
 
 We welcome suggestions for events, formats, changes in procedures, outreach and other activities, that promote our goals in enhancing diversity, amplifying underrepresented voices, and creating a more inclusive community.
 
-RESOURCES
+FEATURED RESOURCES
+
 SIGMOD http://dni.sigmod.org/ 
 
 VLDB http://dni.vldb.org/
